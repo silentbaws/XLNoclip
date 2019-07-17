@@ -1,0 +1,10 @@
+﻿{
+  "Id": "Silentbaws.XLNoclip",
+  "DisplayName": "Silents Noclip mod",
+  "Author": "Silentbaws",
+  "Version": "0.1.0",
+  "ManagerVersion": "0.17.0",
+  "Requirements": [ "blendermf.XLShredMenu-0.0.4" ],
+  "AssemblyName": "XLNoclip.dll",
+  "EntryMethod": "XLNoclip.Main.Load"
+}
